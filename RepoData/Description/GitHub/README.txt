@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️ Android x32: The DeGoogled build for Android 1.5, a powerful, DeGoogled Android 1.5 (Cupcake) alternative installation 
